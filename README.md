@@ -1,5 +1,5 @@
 # Simple Paint Program
-This is a basic program heavily based off of Microsoft's Paint application, where the user can draw anything with a 10 color limitation.<br />
+This is a basic program based off of Microsoft's Paint application, where the user can draw anything with a 10 color limitation.<br />
 <br />
 p5.js was used to create the user interface and ability to draw.<br />
 <br />
